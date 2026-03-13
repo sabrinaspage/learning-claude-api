@@ -1,5 +1,7 @@
 # Learning Claude API
 
+Part of the **[Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)** course
+
 A collection of Jupyter notebooks for learning how to build with the [Anthropic Claude API](https://docs.anthropic.com/en/api).
 
 ## Notebooks
